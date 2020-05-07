@@ -1,0 +1,23 @@
+#+hugo_base_dir: .
+* Homepage
+:PROPERTIES:
+:EXPORT_HUGO_SECTION:
+:EXPORT_FILE_NAME: _index
+:EXPORT_HUGO_MENU: :menu "main"
+:END:
+This is the home of my blog!
+* Blog Posts
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: posts
+:END:
+** My Blog Homepage
+:PROPERTIES:
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_FILE_NAME: _index
+:END:
+Man, look at all my blog posts.
+** One Bad Night
+:PROPERTIES:
+:EXPORT_FILE_NAME: bad-night
+:END:
+Someone gave me herpes! Oh no!

@@ -1,0 +1,45 @@
+#+hugo_base_dir: .
+* Homepage
+:PROPERTIES:
+:EXPORT_HUGO_SECTION:
+:EXPORT_FILE_NAME: _index
+:EXPORT_HUGO_MENU: :menu "main"
+:END:
+This is the home of my blog!
+
+* Blog Posts
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: posts
+:END:
+** My Blog Homepage
+:PROPERTIES:
+:EXPORT_HUGO_MENU: :menu "main" :title Homepage
+:EXPORT_FILE_NAME: _index
+:END:
+Man, look at all my blog posts.
+** One Bad Night
+:PROPERTIES:
+:EXPORT_FILE_NAME: bad-night
+:END:
+Someone gave me herpes! Oh no!aie aie aie
+
+* Fishsticks
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: fishsticks
+:END:
+** Fishsticks Home
+:PROPERTIES:
+:EXPORT_HUGO_MENU: :menu "main" :title Fishsticks
+:EXPORT_FILE_NAME: _index
+:END:
+This section devoted to Orson Wells, R.I.P.
+** Van De Camps
+:PROPERTIES:
+:EXPORT_FILE_NAME: van-de-camps
+:END:
+If this is fish, I'll be a monkey's uncle.
+** Gortons
+:PROPERTIES:
+:EXPORT_FILE_NAME: gortons
+:END:
+What the fucking flunchI think these gave me the herpes.Aie aieaie
